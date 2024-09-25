@@ -1,0 +1,8 @@
+17:16:19.380 INFO  Limbo -- Starting server...
+17:16:19.838 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+17:17:09.005 INFO  Limbo -- Player 3MOAR connected (/127.0.0.1:59950) [V1_8]
+17:17:26.780 INFO  Limbo -- Player 3MOAR disconnected
+19:55:17.757 INFO  Limbo -- Starting server...
+19:55:18.375 INFO  Limbo -- Server started on localhost/127.0.0.1:65535
+20:00:29.084 INFO  Limbo -- Player 3MORA_ connected (/127.0.0.1:32890) [V1_8]
+20:00:43.951 INFO  Limbo -- Player 3MORA_ disconnected

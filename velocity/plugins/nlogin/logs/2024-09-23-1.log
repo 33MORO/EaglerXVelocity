@@ -1,0 +1,41 @@
+[2024/09/23 17:15:58]: §9          __             _       
+[2024/09/23 17:15:58]: §9  _ __   / /  ___   __ _(_)_ __  
+[2024/09/23 17:15:58]: §9 | '_ \ / /  / _ \ / _` | | '_ \ 
+[2024/09/23 17:15:58]: §9 | | | / /__| (_) | (_| | | | | |
+[2024/09/23 17:15:58]: §9 |_| |_\____/\___/ \__, |_|_| |_|
+[2024/09/23 17:15:58]: §9                  |___/            
+[2024/09/23 17:15:58]: §9 By: www.nickuc.com - V 10.3.27
+[2024/09/23 17:15:58]: §9 
+[2024/09/23 17:15:58]: §3[nLogin] [DEBUG] All settings were loaded in 98 ms.
+[2024/09/23 17:15:58]: §3[nLogin] [DEBUG] Loading the messages_en.yml message file...
+[2024/09/23 17:15:58]: §3[nLogin] [DEBUG] All plugin messages were loaded in 51 ms (languageByClient=false).
+[2024/09/23 17:15:58]: §3[nLogin] [DEBUG] All proxy settings were loaded in 6 ms.
+[2024/09/23 17:15:58]: §3[nLogin] [DEBUG] Loading database...
+[2024/09/23 17:15:59]: [nLogin] Generating RSA keypair... (this may take a while)
+[2024/09/23 17:15:59]: [nLogin] Download finished (took 853ms, hash = bcdd0d07f4e3098e91cba27994818024b78ad4e137c7b7eb64a04b4aa8b23c2b)
+[2024/09/23 17:16:00]: [nLogin] The RSA key pair was successfully generated. Took 1.56s
+[2024/09/23 17:16:00]: §3[nLogin] [DEBUG] Starting logger filter...
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:16:05]:  §bThank you so much for choosing nLogin! §4<3
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:16:05]:  §4For your safety, please read the message below:
+[2024/09/23 17:16:05]:   §cNever download nLogin from unknown sources.
+[2024/09/23 17:16:05]:   §cA modified version may contain malicious software.
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:16:05]:  §3Trusted sources:
+[2024/09/23 17:16:05]:   §bwww.nickuc.com
+[2024/09/23 17:16:05]:   §bwww.github.com/nickuc
+[2024/09/23 17:16:05]:   §bOpeNLogin installer (from Spigot or GitHub)
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:16:05]:  §3Official support channels:
+[2024/09/23 17:16:05]:   §bDiscord group: §fwww.nickuc.com/discord
+[2024/09/23 17:16:05]:   §bDocumentation: §fdocs.nickuc.com/nlogin/
+[2024/09/23 17:16:05]:   §bEmail: §fsupport@nickuc.com
+[2024/09/23 17:16:05]:   §bYouTube: §fyoutube.com/nickuc
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:16:05]:  §eTo remove this warning, log in with "nlogin.admin" permission on the server
+[2024/09/23 17:16:05]:  §eand click the "Setup plugin" button to configure your plugin.
+[2024/09/23 17:16:05]: 
+[2024/09/23 17:17:26]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "INSERT INTO `nlogin` (`last_name`, `unique_id`, `mojang_id`, `bedrock_id`, `password`, `last_ip`, `creation_date`, `last_seen`, `email`, `discord`, `settings`) VALUES ('3MOAR', 795f72b6cee93398840ee2c36698a8e9, null, null, '$2a$10$xmhuEipjn8dB7tXzhs9qb.b6px84VkGqZkLfiHMwID21Xsjc4XKIa', '0:0:0:0:0:0:0:1%0', '2024-09-23 17:17:25.982', '2024-09-23 17:17:25.982', null, null, null)" (applied to all columns)
+[2024/09/23 17:17:26]: [nLogin] The user 3MOAR has successfully registered.
+[2024/09/23 17:17:39]: §3[nLogin] [DEBUG] [SQLite] [UPDATE]: "UPDATE `nlogin` SET `last_name` = '3MOAR', `unique_id` = 795f72b6cee93398840ee2c36698a8e9,  `mojang_id` = null,  `bedrock_id` = null,  `password` = '$2a$10$xmhuEipjn8dB7tXzhs9qb.b6px84VkGqZkLfiHMwID21Xsjc4XKIa', `last_ip` = '0:0:0:0:0:0:0:1%0', `creation_date` = 2024-09-23 17:17:25.982, `last_seen` = 2024-09-23 17:17:39.497, `email` = null, `discord` = null, `settings` = '{"settings":[{"value":"survival","key":"last-server"},{"value":"en","key":"language"}],"version":0}' WHERE `ai` = 1" (applied to [last_seen, settings] columns)
